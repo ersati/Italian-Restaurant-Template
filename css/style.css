@@ -284,7 +284,12 @@ i.fab:hover {
     border-bottom: 2px solid var(--light);
 }
 
+.footer__a {
+    margin-bottom: 15px;
+}
+
 .my-footer-img {
     width: 80%;
     height: 80%;
+
 }
