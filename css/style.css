@@ -76,7 +76,7 @@ body {
 .icon-bar {
     width: 22px;
     height: 2px;
-    background-color: var(--light);
+    background-color: var(--dark);
     display: block;
     transition: all 0.2s;
     margin-top: 4px;
